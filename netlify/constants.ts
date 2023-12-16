@@ -15,7 +15,8 @@ export const ALLOWED_ORIGINS =
         "https://tradetrust.io",
       ]
     : [
-        "http://localhost:3000",
+        "http://127.0.0.1:3001",
+        "http://localhost:3001",
         "https://creator.tradetrust.io",
         "https://dev.tradetrust.io",
         "https://tradetrust.io",
